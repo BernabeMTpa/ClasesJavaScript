@@ -1,2 +1,2 @@
-# ProyectoJavaScript
-Proyecto de Programacion Java Script
+# ClasesJavaScript
+Clases de Programacion Java Script
